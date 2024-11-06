@@ -21,7 +21,7 @@ Welcome to Optimizer, an advanced configuration utility designed to enhance your
 <h2> 🏗️ Key Features:</h2> 
 </center>
 
-- Full multilingual support (24 languages available)
+- Full multilingual support (4 languages available)
 - Enhance system and network performance
 - Disable unnecessary Windows services
 - Turn off Windows telemetry, Cortana, and more
@@ -57,7 +57,7 @@ Find the latest release of Optimizer on the [Releases](https://github.com/Gameh4
 <h2>🖼️ Screenshots</h2> 
 </center>
 
-View Optimizer in action through our [Screenshots](https://github.com/hellzerg/optimizer/blob/master/IMAGES.md) collection.
+View Optimizer in action through our [Screenshots](https://github.com/Gameh4x/Optimizer/blob/main/IMAGES.md) collection.
 
 <center>
 <h2> 🆘 How to Disable Defender in Windows 10 1903 and Later</h2> 
@@ -71,31 +71,7 @@ View Optimizer in action through our [Screenshots](https://github.com/hellzerg/o
 <h2>🔨 Automation using Templating</h2> 
 </center>
 
-Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/hellzerg/optimizer/blob/master/AUTOMATION.md).
-
-<center>
-<h2> 🔨 Command-line Options</h2> 
-</center>
-
-Check out the [Command-line Options](https://github.com/hellzerg/optimizer/blob/master/CONFS.md) available for Optimizer.
-
-<center>
-<h2> ❓ Frequently Asked Questions</h2> 
-</center>
-
-Find answers to common queries in the [FAQ Section](https://github.com/hellzerg/optimizer/blob/master/FAQ.md).
-
-<center>
-<h2> 📰 Changelog</h2> 
-</center>
-
-Stay updated with the latest changes through the [Changelog](https://github.com/hellzerg/optimizer/blob/master/CHANGELOG.md).
-
-<center>
-<h2>🛡️ Security Policy</h2> 
-</center>
-
-Learn about our security measures in the [Security Policy](https://github.com/hellzerg/optimizer/blob/master/SECURITY.md).
+Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/Gameh4x/Optimizer/blob/main/AUTOMATION.md).
 
 <center>
 <h2> 💻 Compatibility</h2> 
